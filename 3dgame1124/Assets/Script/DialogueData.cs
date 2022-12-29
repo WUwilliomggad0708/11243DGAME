@@ -12,6 +12,7 @@ namespace xin
         public string dialogueName;
         [Header("對話內容"),TextArea(2,5)]
         public string[] dialogueContents;
-
+        
+        
     }
 }
